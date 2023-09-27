@@ -1,3 +1,2 @@
-1. What is ansible
-2. Architecture
-3. Component
+1. What is ansible?
+2. how Ansible work?
